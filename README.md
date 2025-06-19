@@ -1,4 +1,4 @@
-# AC IoT Framework — Enterprise-Grade Smart Air Conditioning Control System
+# AC IoT Framework — Smart Air Conditioning Control System
 
 ## Overview
 
